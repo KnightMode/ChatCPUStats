@@ -8,3 +8,4 @@ This is a simple CPU information assistant that uses LangChain and Ollama to ans
 2. Run `npm install`
 3. Run `npm start`
 
+![alt text](demo.png)
