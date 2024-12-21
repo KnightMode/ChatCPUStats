@@ -1,0 +1,26 @@
+{
+  "name": "funclangchain",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/community": "^0.3.19",
+    "@langchain/core": "^0.3.26",
+    "@langchain/ollama": "^0.1.4",
+    "@langchain/openai": "^0.3.16",
+    "@opentelemetry/api": "^1.9.0",
+    "arpscan": "^1.0.2",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "faiss-node": "^0.5.1",
+    "langchain": "^0.3.7",
+    "systeminformation": "^4.34.23"
+  }
+}
